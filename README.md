@@ -1,4 +1,4 @@
-# HO CHI MINH CITY HOUSE PRICE PREDICTION PROJECT
+# HO CHI MINH CITY HOUSE PRICE PREDICTION
 
 ## Introduction
 - In this project, I will build a web app for predicting the house price in Ho Chi Minh City based on the datasets scraped at website [Propzy](propzy.vn).
